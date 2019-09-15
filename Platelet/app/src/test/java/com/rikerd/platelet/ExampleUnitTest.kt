@@ -1,4 +1,4 @@
-package com.example.platelet
+package com.rikerd.platelet
 
 import org.junit.Test
 

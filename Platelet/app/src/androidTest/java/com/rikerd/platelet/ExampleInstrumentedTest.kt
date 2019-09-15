@@ -1,4 +1,4 @@
-package com.example.platelet
+package com.rikerd.platelet
 
 import androidx.test.InstrumentationRegistry
 import androidx.test.runner.AndroidJUnit4

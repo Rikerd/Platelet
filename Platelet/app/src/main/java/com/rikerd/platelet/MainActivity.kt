@@ -1,22 +1,14 @@
-package com.example.platelet
+package com.rikerd.platelet
 
 import android.content.pm.ActivityInfo
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
-import android.widget.ImageButton
-import android.R.attr.start
-import android.animation.AnimatorSet
-import android.animation.ObjectAnimator
-import android.hardware.biometrics.BiometricPrompt
 import android.media.MediaPlayer
 import android.media.SoundPool
 import android.view.MotionEvent
 import android.view.View
-import android.view.View.OnTouchListener
-import android.media.AudioManager
 import android.os.Build
-import android.os.CountDownTimer
 import androidx.annotation.RequiresApi
 import java.util.*
 
